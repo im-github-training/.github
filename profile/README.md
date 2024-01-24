@@ -1,4 +1,4 @@
-# Welcome to the GitHub Training Organization!
+# Welcome to the InfoMagnus Training Organization!
 
 ## Quick Links
 - [Course Homepage](https://im-github-training.github.io/)
